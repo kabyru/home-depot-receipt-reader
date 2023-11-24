@@ -1,5 +1,5 @@
 # home-depot-receipt-reader
-A crudge reg-ex powered receipt reader, aimed for in-store receipts sent to your email by Home Depot. 
+A crude reg-ex powered receipt reader, aimed for in-store receipts sent to your email by Home Depot. 
 
 This program takes PDF files provided by Home Depot at checkout, as input, and outputs a tabulated itemized receipt as a CSV file. This functionality is particularly useful because Home Depot locks automated spreadsheet generation from purchases behind a paywall. (ProXtra). 
 
